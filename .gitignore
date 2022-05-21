@@ -1,0 +1,6 @@
+*.log
+*.asv
+temp.m
+results/*
+tests/*
++opt/*
